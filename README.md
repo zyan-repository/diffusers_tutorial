@@ -13,14 +13,17 @@ Hugging Face diffusers库中文教程，快速搭建属于自己的扩散模型�
 ## 理论部分(Theory)
 （暂无）
 ## 实践部分(Practice)
-diffusers_tutorial.ipynb （更新中...）  
+diffusers_tutorial_0x.ipynb （更新中...）  
 
 ## 相关论文
 
-| 论文                                                                                                            | 算法/模型名称 |
-|---------------------------------------------------------------------------------------------------------------|---------|
-| [Denoising Diffusion Probabilistic Model](https://arxiv.org/pdf/2006.11239.pdf)                               | DDPM    |
-| [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) | CLIP    |
-| [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502.pdf)                                                                       | DDIM    |
+| 论文                                                                                                                           | 算法/模型名称            |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| [Denoising Diffusion Probabilistic Model](https://arxiv.org/pdf/2006.11239.pdf)                                              | DDPM               |
+| [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)                | CLIP               |
+| [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502.pdf)                                                  | DDIM               |
+| [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)                                                       | VAE                |
+| [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)                         | LDMs               |
+| [UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2302.04867.pdf) | UniPC(UniC & UniP) |
 
 绝大部分内容非原创，仅供个人学习交流使用，如有侵权，请联系删除。
