@@ -26,4 +26,4 @@ diffusers_tutorial_0x.ipynb （更新中...）
 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)                         | LDMs               |
 | [UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2302.04867.pdf) | UniPC(UniC & UniP) |
 
-绝大部分内容非原创，仅供个人学习交流使用，如有侵权，请联系删除。
+内容非原创，仅供个人学习交流使用，如有侵权，请联系删除。
