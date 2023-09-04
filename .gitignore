@@ -149,7 +149,7 @@ model_params.txt
 *.ckpt*
 results.txt
 
-0.*
-1.*
-2.*
-3.*
+0*
+1*
+2*
+3*
